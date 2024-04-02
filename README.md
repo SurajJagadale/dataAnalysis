@@ -1,4 +1,4 @@
-# Data Analysis for Sale Dataset
+# Data Analysis for Diwali Sale Dataset
 
 This repository contains the code and data for analyzing a sale dataset using Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
 
