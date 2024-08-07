@@ -28,13 +28,6 @@ The dataset used in this analysis contains information about sales transactions.
 4. Data Visualization: Create visualizations to gain insights into the data distribution, trends, and relationships.
 5. Statistical Analysis: Perform statistical tests or calculations to extract meaningful information from the data.
 
-## How to Use
-
-1. Clone this repository to your local machine.
-2. Install the required libraries using pip: `pip install -r requirements.txt`.
-3. Open the Jupyter Notebook `data_analysis.ipynb`.
-4. Follow the step-by-step instructions in the notebook to run the analysis.
-
 ## Conclusion
 
 This analysis provides insights into the sales dataset, helping to understand the trends, patterns, and factors influencing sales. It can be further extended or modified for specific business needs or deeper analysis.
